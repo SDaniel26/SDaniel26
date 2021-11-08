@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning C#, .net, Flutter
+- 🌱 I’m currently learning C#, .net, Flutter, Dart, JavaScript, ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
