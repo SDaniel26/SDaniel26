@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning C#, .net, Flutter, Dart, JavaScript, ASP.NET
+- 🌱 I’m currently learning C#, ASP.NET, Zoho CRM, Deluge, WebDevelopment(HTML5, CSS, JavaScript, React, etc.) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
